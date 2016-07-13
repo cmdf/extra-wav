@@ -4,6 +4,14 @@ using System.Media;
 
 namespace orez.owav {
 	class Program {
+
+		// static method
+		/// <summary>
+		/// Duck Hunt is a light gun shooter video game developed and published by
+		/// Nintendo for the Nintendo Entertainment System video game console.
+		/// :: Nintendo, Hiroji Kiyotake (April 21, 1984)
+		/// </summary>
+		/// <param name="args">Input arguments.</param>
 		static void Main(string[] args) {
 			oParams p = new oParams(args);
 			Stream i = p.Input == null ? Console.OpenStandardInput() : (File.Exists(p.Input) ? new FileStream(p.Input, FileMode.Open) : null);
