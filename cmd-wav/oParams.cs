@@ -1,4 +1,4 @@
-﻿namespace cmd_wav {
+﻿namespace orez.owav {
 	class oParams {
 
 		// data

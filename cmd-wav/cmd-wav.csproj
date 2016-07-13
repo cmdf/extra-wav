@@ -7,8 +7,8 @@
     <ProjectGuid>{89A6197F-EF17-4FB9-8931-48500CECFB5F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>cmd_wav</RootNamespace>
-    <AssemblyName>cmd-wav</AssemblyName>
+    <RootNamespace>orez.owav</RootNamespace>
+    <AssemblyName>owav</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

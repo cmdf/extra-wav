@@ -2,7 +2,7 @@
 using System.IO;
 using System.Media;
 
-namespace cmd_wav {
+namespace orez.owav {
 	class Program {
 		static void Main(string[] args) {
 			oParams p = new oParams(args);
