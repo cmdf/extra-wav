@@ -19,8 +19,3 @@ Play PCM WAV audio in Windows Console.
 :: play council.wav, using stdin
 > cat council.wav | owav
 ```
-
-
-## license
-
-Do you have a Poké ball? That's enough!
