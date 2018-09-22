@@ -1,5 +1,5 @@
 Play PCM WAV audio in Windows Console.
-> 1. Download [exe file](https://github.com/winp/extra-wav/releases/download/1.0.0/ewav.exe).
+> 1. Download [exe file](https://github.com/cmdf/extra-wav/releases/download/1.0.0/ewav.exe).
 > 2. Copy to `C:\Program_Files\Scripts`.
 > 3. Add `C:\Program_Files\Scripts` to `PATH` environment variable.
 
@@ -20,4 +20,4 @@ Play PCM WAV audio in Windows Console.
 ```
 
 
-[![Merferry](https://i.imgur.com/TcEJvcR.jpg)](https://merferry.github.io)
+[![cmdf](https://i.imgur.com/TcEJvcR.jpg)](https://cmdf.github.io)
