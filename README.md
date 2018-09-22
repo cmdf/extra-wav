@@ -1,12 +1,11 @@
-# owav
-
 Play PCM WAV audio in Windows Console.
+> 1. Download [exe file](https://raw.githubusercontent.com/winp/extra-bel/master/ecd.cmd).
+> 2. Copy to `C:\Program_Files\Scripts`.
+> 3. Add `C:\Program_Files\Scripts` to `PATH` environment variable.
 
-
-## usage
 
 ```batch
-> owav [-i|--input <input wav file>]
+> ewav [-i|--input <input wav file>]
 
 :: [] -> optional argument
 :: <> -> argument value
@@ -14,8 +13,8 @@ Play PCM WAV audio in Windows Console.
 
 ```batch
 :: play council.wav file
-> owav --input council.wav
+> ewav --input council.wav
 
 :: play council.wav, using stdin
-> cat council.wav | owav
+> cat council.wav | ewav
 ```

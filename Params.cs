@@ -1,5 +1,5 @@
-﻿namespace orez.owav {
-	class oParams {
+﻿namespace App {
+	class Params {
 
 		// data
 		/// <summary>
@@ -13,7 +13,7 @@
 		/// Get parameters from input arguments.
 		/// </summary>
 		/// <param name="args">Input arguments.</param>
-		public oParams(string[] args) {
+		public Params(string[] args) {
 			for (int i = 0, I = args.Length; i < I; i++) {
 				string av = args[i];
 				if (av == "-i" || av == "--input") { Input = ++i < I ? args[i] : ""; }
