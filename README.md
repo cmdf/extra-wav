@@ -18,3 +18,6 @@ Play PCM WAV audio in Windows Console.
 :: play council.wav, using stdin
 > cat council.wav | ewav
 ```
+
+
+[![Merferry](https://i.imgur.com/TcEJvcR.jpg)](https://merferry.github.io)
